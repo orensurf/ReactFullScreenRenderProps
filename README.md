@@ -1,2 +1,0 @@
-# WithFullScreen
-Created with CodeSandbox

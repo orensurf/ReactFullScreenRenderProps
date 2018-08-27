@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+input[type="button"] {
+  width: 200px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: #00aaff;
+  color: #fff;
+}
